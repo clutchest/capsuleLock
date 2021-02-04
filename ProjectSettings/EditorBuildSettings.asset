@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Naslovna slika.unity
+    guid: 00a79a1b6205a2946a7ae2d3c54bbfd1
+  - enabled: 1
+    path: Assets/Scenes/Winter levels/Level0_Winter_Mobile.unity
+    guid: b0853660d561bde478d53ea0fa6abf10
+  - enabled: 1
+    path: Assets/Scenes/Winter levels/Level1_Winter_Mobile.unity
+    guid: 8b06a26ea7097a4408951d630e273dac
+  - enabled: 1
+    path: Assets/Scenes/Winter levels/Level2_Winter_Mobile.unity
+    guid: 87f19b7c5db4e0b4cb47e523c2d100b9
+  - enabled: 1
+    path: Assets/Scenes/Winter levels/Level3_Winter_Mobile.unity
+    guid: fecefba4d03d97344af721fb055fdf67
+  - enabled: 1
+    path: Assets/Scenes/Winter levels/Level4_Winter_Mobile.unity
+    guid: b8007c752fb176246bd49d6cce1cc101
+  - enabled: 1
+    path: Assets/Scenes/Winter levels/Level5_Winter_Mobile.unity
+    guid: f6eb72dc20da24a4aba08958842fa264
+  - enabled: 1
+    path: Assets/Scenes/Winter levels/Level6_Winter_Mobile.unity
+    guid: 2fd87ec6b2d0734498cf634f67354b0a
+  - enabled: 1
+    path: Assets/Scenes/Winter levels/Level7_Winter_Mobile.unity
+    guid: 080d6da34c5ba6c48838863ba2a00abf
+  - enabled: 1
+    path: Assets/Scenes/Winter levels/Level8_Winter_Mobile.unity
+    guid: 2d91e46b63e77aa43b1dd2682624e4cb
+  - enabled: 1
+    path: Assets/Scenes/Winter levels/Level9_Winter_Mobile.unity
+    guid: 479f40f0f2509cb4d88574d5d6aad341
+  - enabled: 1
+    path: Assets/Scenes/Winter levels/Level10_Winter_Mobile.unity
+    guid: 090efd34d1eda8b47bb5ffedeb743048
+  - enabled: 1
+    path: Assets/Scenes/Winter levels/Level11_Winter_Mobile.unity
+    guid: e696c16778cb75e44b605551330192a6
+  - enabled: 1
+    path: Assets/Scenes/Spring levels/Level1_Spring_Mobile.unity
+    guid: 0fd65ac4369e55a429946cd8d6d4f4c6
+  - enabled: 1
+    path: Assets/Scenes/Spring levels/Level2_Spring_Mobile.unity
+    guid: aa954a18c742a754f9a6ac8ba2dc91f9
+  - enabled: 1
+    path: Assets/Scenes/Spring levels/Level3_Spring_Mobile.unity
+    guid: 42f8ec5338202ab47a34d34666ce75ec
+  - enabled: 1
+    path: Assets/Scenes/Spring levels/Level4_Spring_Mobile.unity
+    guid: fba71c00cb4253f4b8d547c58476cfac
+  - enabled: 1
+    path: Assets/Scenes/Spring levels/Level5_Spring_Mobile.unity
+    guid: d571ab1d523f29c4b93307c30c420c90
+  - enabled: 1
+    path: Assets/Scenes/Spring levels/Level6_Spring_Mobile.unity
+    guid: 66551bdc106910b408dcf2b06a3b729c
+  - enabled: 1
+    path: Assets/Scenes/Spring levels/Level7_Spring_Mobile.unity
+    guid: 1663a3e5ac451a54f8241d258cd956ed
+  - enabled: 1
+    path: Assets/Scenes/Spring levels/Level8_Spring_Mobile.unity
+    guid: f11d1b9e0b170b24ab846875b9a27148
+  - enabled: 1
+    path: Assets/Scenes/Spring levels/Level9_Spring_Mobile.unity
+    guid: ff3c1c02befff58439a8db30823ab83d
+  - enabled: 1
+    path: Assets/Scenes/Spring levels/Level10_Spring_Mobile.unity
+    guid: 9b3030bb6a8e0a84a82806fa8922e58a
+  - enabled: 1
+    path: Assets/Scenes/Spring levels/Level11_Spring_Mobile.unity
+    guid: ce085f049b6e415488ab7b9f6deb8bfd
+  - enabled: 1
+    path: Assets/Scenes/Spring levels/Level12_Spring_Mobile.unity
+    guid: fb07fdb72dec08141adf29690c273997
+  - enabled: 1
+    path: Assets/Scenes/Summer levels/Level10_Summer_Mobile/Level1_Summer_Mobile.unity
+    guid: 7af74be962f3ac445892cd8f62c7c30d
+  - enabled: 1
+    path: Assets/Scenes/Summer levels/Level2_Summer_Mobile.unity
+    guid: a32816ed13786cf4dbde618b24bc6a55
+  - enabled: 1
+    path: Assets/Scenes/Summer levels/Level3_Summer_Mobile.unity
+    guid: 47903a65732469b4e881b8bfa861981c
+  - enabled: 1
+    path: Assets/Scenes/Summer levels/Level4_Summer_Mobile.unity
+    guid: 2bd78e1170a0adc40a989dab1b338d64
+  - enabled: 1
+    path: Assets/Scenes/Summer levels/Level5_Summer_Mobile.unity
+    guid: eb3d389da9e7a3a4e9116ad87a8ce642
+  - enabled: 1
+    path: Assets/Scenes/Summer levels/Level6_Summer_Mobile.unity
+    guid: 5e15d213e5f5bd641912835ff866b4eb
+  - enabled: 1
+    path: Assets/Scenes/Summer levels/Level7_Summer_Mobile.unity
+    guid: 2d561fd17be8cdb4386c1ebf20e9c654
+  - enabled: 1
+    path: Assets/Scenes/Summer levels/Level8_Summer_Mobile.unity
+    guid: dca9bce5d30ccc043a14526b58b08b0e
+  - enabled: 1
+    path: Assets/Scenes/Summer levels/Level9_Summer_Mobile.unity
+    guid: b4a96873e9ee3324e9e651f4fd2d2095
+  - enabled: 1
+    path: Assets/Scenes/Summer levels/Level10_Summer_Mobile.unity
+    guid: d7877ee67d68ded4c87cea09df5f1f41
+  - enabled: 1
+    path: Assets/Scenes/Summer levels/Level11_Summer_Mobile.unity
+    guid: 1c31ea359a85b044a99fbe4644b48d77
+  - enabled: 1
+    path: Assets/Scenes/Summer levels/Level12_Summer_Mobile.unity
+    guid: 307488a560f0fb942aac69987b834222
+  - enabled: 1
+    path: Assets/Scenes/Autumn levels/Level1_Autumn_Mobile.unity
+    guid: 6be8c557a9a4f6044beabee67b34772e
+  - enabled: 1
+    path: Assets/Scenes/Autumn levels/Level2_Autumn_Mobile.unity
+    guid: 5f0504f4db1912b43bdd3f823204c305
+  - enabled: 1
+    path: Assets/Scenes/Autumn levels/Level3_Autumn_Mobile.unity
+    guid: 57672d38164bcb0439667ea478d3bc8b
+  - enabled: 1
+    path: Assets/Scenes/Autumn levels/Level4_Autumn_Mobile.unity
+    guid: 78331f8d7d5728a4f838a3b8ef0105e2
+  - enabled: 1
+    path: Assets/Scenes/Autumn levels/Level5_Autumn_Mobile.unity
+    guid: be027ed4b4064364e836243386aa8544
+  - enabled: 1
+    path: Assets/Scenes/Autumn levels/Level6_Autumn_Mobile.unity
+    guid: 785258ff00e62994f840511432f6804f
+  - enabled: 1
+    path: Assets/Scenes/Autumn levels/Level7_Autumn_Mobile.unity
+    guid: dd78e3472b8d8024981db1e3720803be
+  - enabled: 1
+    path: Assets/Scenes/Autumn levels/Level8_Autumn_Mobile.unity
+    guid: b1a83904bf1a14141bdb9a0ff94403d0
+  - enabled: 1
+    path: Assets/Scenes/Autumn levels/Level9_Autumn_Mobile.unity
+    guid: 420899afc17bc484fb4a02f291787a7f
+  - enabled: 1
+    path: Assets/Scenes/Autumn levels/Level10_Autumn_Mobile.unity
+    guid: 8169297fcda5ecb4684e9a946fd5039b
+  - enabled: 1
+    path: Assets/Scenes/Autumn levels/Level11_Autumn_Mobile.unity
+    guid: be05dd40c1d33d348acf9ff311d92f22
+  - enabled: 1
+    path: Assets/Scenes/Autumn levels/Level12_Autumn_Mobile.unity
+    guid: 9a134cb1f581e874fb2a8fc1ba763d5f
+  m_configObjects: {}
